@@ -1,0 +1,2 @@
+Serverdelen av denna kod är en modifierad variant av "Simple TCP Chat Room in Python" av NeuralNine
+(https://www.youtube.com/watch?v=3UOyky9sEQY&t=168s)
